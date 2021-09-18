@@ -30,4 +30,4 @@ private:
 	Direction direction;
 	friend class Food;//将FOOD类置为友元，以便访问其为私有元素
 };
-#endif//SNAKE_H
+#endif//SNAKE_H 1
